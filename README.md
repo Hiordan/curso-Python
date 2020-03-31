@@ -1,2 +1,2 @@
 # curso-Python
- Introdução ao Pythpn
+ Introdução ao Python
